@@ -1,15 +1,13 @@
-# Mert'in Python ve Mühendislik Öğrenme Süreci
-İlk GitHub Repo'm
+# Mert's Python and Engineering Learning Journey
+My First GitHub Repo
 
-Bu repository, Mert'in Python ve mühendislik konularındaki öğrenme sürecini takip etmek için oluşturulmuştur. Henüz aktif bir proje yoktur, ancak ilerleyen süreçte Python konularındaki öğrenilen bilgileri içeren projeler ve mühendislik uygulamaları bu repoda paylaşılacaktır.
+This repository has been created to track Mert's learning journey in Python and engineering. While there aren't any active projects yet, future Python projects, engineering applications, and learned concepts will be shared here.
 
-## Gelecek Planları
+# Future Plans
+1. Develop basic and advanced projects in Python.
+2. Create content related to engineering projects.
+3. Provide guides for contributors in future projects.
+4. Develop a machine learning-based chatbot. In the future, I plan to implement machine learning techniques to make the chatbot smarter.
 
-1. Python'da temel ve ileri düzey projeler yapmak.
-2. Mühendislik projeleriyle ilgili içerikler üretmek.
-3. Gelecekteki projelerde katkı sağlamak isteyenler için rehberler sunmak.
-4. Yapay zeka ve makine öğrenimi tabanlı chatbot geliştirme. Bu projede ilerleyen zamanlarda chatbotu daha akıllı hale getirmek için makine öğrenimi tekniklerini uygulamayı planlıyorum.
-
-## Katkı Sağlama
-
-Projeler başlayınca, bu repoya katkı sağlamak isteyenler için talimatlar verilecektir.
+# Contributing
+Once the projects begin, guidelines for those who want to contribute to this repository will be provided.
